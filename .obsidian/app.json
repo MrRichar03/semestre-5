@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "autoConvertHtml": false,
+  "autoPairBrackets": false,
+  "smartIndentList": true,
+  "autoPairMarkdown": true,
+  "alwaysUpdateLinks": true
+}
