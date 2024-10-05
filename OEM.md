@@ -10,7 +10,7 @@ veamos un ejemplo de como representar ambas ondas en un gráfico
 ya que la velocidad es constante y es la de la luz podemos crear una relación entre la longitud de onda y de frecuencia, junto al espectro electromagnético podemos deducir que 
 mientras mayor sea la frecuencia de la onda, mayor sera la energía de la onda.
 
-Si nos fijamos en el gráfico anterior podemos ver que los campos presentados E, B y K mantienen una trasversalidad entre si, por esta razón los campos se definen con productos punto
+Si nos fijamos en el gráfico anterior podemos ver que los campos presentados E, B y K mantienen una transversalidad entre si, por esta razón los campos se definen con productos punto
 
 $\Large{\vec{B} = }\Huge{\frac{1}{\omega}}\Large{\vec{K} \times \vec{E}}$     
 
@@ -102,7 +102,7 @@ $\Large{\vec{B} = }\Huge{\frac{1}{\omega}}\Large{\vec{K} \times \vec{E}}$
 
 ó 
 
-$\Large{\vec{E} = }\Huge{\frac{1}{\omega}}\Large{\vec{K} \times \vec{B}}$     
+$\Large{\vec{E} = -}\Huge{\frac{c²}{\omega}}\Large{\vec{K} \times \vec{B}}$     
 
 en nuestro ejemplo usaremos la del campo magnético 
 

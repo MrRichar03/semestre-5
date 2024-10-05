@@ -174,3 +174,5 @@ $\large{ (q_1, b, b) -> (q_1, bz_0)}$
 $\large{ (q_1, a, b) -> (q_0, z_0)}$ 
 $\large{ (q_1, b, a) -> (q_0, z_0)}$ 
 $\large{ (q_1, \lambda, z_0) -> (q_2, z_0)}$ 
+
+[[arboles de derivacion y analisis sintactico]]

@@ -50,7 +50,7 @@ $\Large{f = \frac{(2m+1)V}{4L}}$
 
 $\Large{f_f = \frac{V}{4L}}$ 
 
-$\Large{f = (2m+1)f_f  = \{1f_f,2f_f,3f_f,5f_f,7f_f,...\}}$  
+$\Large{f = (2m+1)f_f  = \{1f_f,3f_f,5f_f,7f_f,...\}}$  
 
 Los armónicos siempre serán impares
 

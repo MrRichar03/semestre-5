@@ -44,7 +44,7 @@ $\large{ v = \lambda f}$ v es constante entonces f y $\large{ \lambda}$ son inve
 
 cuando la fuente en este caso la ambulancia se acerca al observador, el observador 
 percibe que aumenta la frecuencia y la longitud de onda disminuye, mientras que 
-cuando la ambulancia se aleja del observador este percibe que la frecuencia diminuye
+cuando la ambulancia se aleja del observador este percibe que la frecuencia disminuye
 y la longitud de onda aumenta 
 
 

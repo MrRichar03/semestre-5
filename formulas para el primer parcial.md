@@ -13,9 +13,13 @@ Numero de onda  K =  $\large{2 \pi / \lambda}$ opuesto a la longitud de onda
 
 Rapidez de una onda V = espacio/tiempo = $\large{\lambda / T = \lambda f}$
 
-Velocidad y aceleración de los puntos del medio![[Pasted image 20240813182934.png]] 
 
-Ecuación de una onda  ![[Pasted image 20240815135836.png]]
+Velocidad y aceleración de los puntos del medio
+![[Pasted image 20240813182934.png]] 
+
+Ecuación de una onda  
+
+![[Pasted image 20240815135836.png]]
 
 $\large{\Delta m}$: Se refiere a un pedazo muy pequeño de masa  
 

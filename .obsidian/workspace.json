@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8efa13c0b53027c",
+            "id": "72e44c305c06a519",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,43 @@
             }
           },
           {
-            "id": "372b9f794a8aace5",
+            "id": "3cbdf912fc06d773",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ejemplo sistema dopple.md",
+                "file": "ondas en 3 dimensiones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "763c3f126d26c537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formulas para el primer parcial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85885989ce940ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energia y potencia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ejemplo sistema dopple.md",
+                "file": "Energia y potencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ejemplo sistema dopple.md",
+                "file": "Energia y potencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ejemplo sistema dopple.md"
+                "file": "Energia y potencia.md"
               }
             }
           }
@@ -159,42 +183,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372b9f794a8aace5",
+  "active": "85885989ce940ade",
   "lastOpenFiles": [
-    "efecto doppler.md",
     "Indice física de ondas.md",
+    "ondas  estacionarias en tubos.md",
+    "condiciones de frontera y ondas estacionarias en cuerdas.md",
+    "cambios en sistemas compuestos.md",
     "OEM.md",
     "ecuaciones de maxwell.md",
+    "ondas en 3 dimensiones.md",
+    "formulas para el primer parcial.md",
     "Quinto semestre uwu.md",
-    "Pasted image 20240927132036.png",
-    "Pasted image 20240927131959.png",
-    "Pasted image 20240927131916.png",
-    "Pasted image 20240927131540.png",
-    "Pasted image 20240927131300.png",
-    "Pasted image 20240927131026.png",
-    "Pasted image 20240927130833.png",
-    "Pasted image 20240927122328.png",
-    "Pasted image 20240927122228.png",
-    "Pasted image 20240927100322.png",
+    "efecto doppler.md",
+    "ondas estacionarias en cuerda con extremo movil.md",
+    "pulsos.md",
+    "ondas de presion y densidad en ondas estacionarias.md",
+    "Guion presentación node js.md",
+    "Indice estructura de datos y lab.md",
+    "gramaticas de lenguajes de prog.md",
+    "Pasted image 20240930173633.png",
+    "Pasted image 20240930172519.png",
+    "Indice teoría de lenguajes y lab.md",
+    "arboles de derivacion y analisis sintactico.md",
+    "Pasted image 20240930163519.png",
+    "Pasted image 20240930163442.png",
+    "Pasted image 20240930160240.png",
+    "Pasted image 20240930160100.png",
+    "Pasted image 20240930160104.png",
+    "Pasted image 20240930160105.png",
+    "Pasted image 20240930160030.png",
+    "Pasted image 20240930155922.png",
+    "automatas de pila.md",
+    "gramaticas independientes del contexto.md",
+    "ejemplo sistema dopple.md",
     "Untitled.md",
     "Energia y potencia.md",
     "formulas para segundo seguimiento.md",
     "gramaticas regulares.md",
-    "Indice estructura de datos y lab.md",
-    "Indice ciencia tecnología y sociedad.md",
-    "formulas para el primer seguimiento.md",
-    "condiciones de frontera y ondas estacionarias en cuerdas.md",
-    "ondas estacionarias en cuerda con extremo movil.md",
-    "ondas de presion y densidad en ondas estacionarias.md",
-    "ondas  estacionarias en tubos.md",
-    "ondas en 3 dimensiones.md",
-    "ejemplo sistema dopple.md",
-    "Guion presentación node js.md",
-    "Indice teoría de lenguajes y lab.md",
-    "Minimización y equivalencia AFD.md",
-    "Automatas finitos deterministicos.md",
-    "Lenguajes y expresiones regulares.md",
-    "pulsos.md",
-    "automatas de pila.md"
+    "Indice ciencia tecnología y sociedad.md"
   ]
 }
